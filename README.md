@@ -22,3 +22,7 @@ pandoc "$1" --smart --self-contained \
 ```
 
 Where `fiona` is the `$USER` of my box. It takes the third variable `$3`, which is a CSS file that's present in my `~/.pandoc` folder. As you can see, currently I have 2 CSS files.
+
+### acknowledgements & resources
+
+1. Osmo Salomaa's [GitHub repository](https://github.com/otsaloma/markdown-css).
